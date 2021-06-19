@@ -6,6 +6,6 @@ There will be a simple donate button on homepage. On clicking the donate button,
 
 Once the payment is done and invoice will be generated and email will be sent to the user for the payment received. The invoice will contain the amount.
 
-AWS Website Hosting Link- https://paymentgatewayintegration.s3.amazonaws.com/home.html
-
 GitHub Hosting Link- https://rupneilsaharoy.github.io/Payment_Gateway_Integration/
+
+YouTube Link- https://www.youtube.com/watch?v=jWBz_vJpiXQ
